@@ -1,0 +1,7 @@
+,linear_score, poly_score, rbf_score, sigmoid_score,,,
+Income,0.840181269,0.816918429,0.83897281,0.833232628,,,
+HR,0.568027211,0.557823129,0.56122449,0.571428571,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+linear_score, linear_train, poly_score, poly_train, rbf_score, rbf_train, sigmoid_score, sigmoid_train
